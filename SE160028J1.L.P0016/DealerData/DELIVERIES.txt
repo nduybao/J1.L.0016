@@ -1,0 +1,5 @@
+DE001,Conan,011133344,28 street BK,true
+DE002,Naruto,12345678911,114 street BB,true
+DE004,Eren,123459876,116 street DD,false
+DE005,Doremon,654321789,117 street EE,false
+DE007,Ichigo,123321123,47 street Daklak,true
